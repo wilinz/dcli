@@ -15,7 +15,9 @@ dependencies:
   convert: ^3.0.1
   crypto: ^3.0.0
   csv: ^6.0.0
-  dart_console2: ^3.1.1
+  dart_console2: 
+    git:
+      url: https://github.com/wilinz/dart_console.git
   dcli_common: ^4.0.1-beta.1
   dcli_core: ^4.0.1-beta.1
   dcli_terminal: ^4.0.1-beta.1
